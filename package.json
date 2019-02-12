@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^6.2.0",
+    "reddit-snooper": "^1.0.1",
+    "reddit-wrapper-v2": "^1.1.5",
     "snoostorm": "0.0.5",
     "snoowrap": "^1.15.2"
   }
